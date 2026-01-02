@@ -1,9 +1,6 @@
 # Redigo 🚀
 **Redis-compatible in-memory key-value store built from scratch in Go**
 
-[![Go](attached_file:1)][go]
-[![License: MIT](attached_file:2)][license] [![redis-cli compatible](attached_file:3)][redis]
-
 ---
 
 ## 🌟 Features
